@@ -9,7 +9,7 @@
 <h2>⚡️ Quick Facts</h2>
 <ul>
 <li>👨🏽‍💻 I'm currently studying <strong>Computer Engineering</strong> at the University of Padua.</li>
-<li>🧠 <strong>Machine learning</strong>, <strong>tricky projects</strong>, and a bit of <strong>big data management</strong> are my interests.</li>
+<li>🧠 <strong>Machine learning</strong>, <strong>challengin projects</strong> and a bit of <strong>big data management</strong> are my interests.</li>
 <li>🏍 I'm also a big fan of <strong>Mechanical Engineering</strong> and <strong>engines</strong>.</li>
 <li>🎉 Fun Fact: おめでとう、このことの翻訳を調べるのに時間を無駄にしました</li>
 </ul>
