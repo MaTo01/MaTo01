@@ -5,7 +5,7 @@
   
 <p><img src="https://media1.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="50"> My day is made up of 50% coffee breaks and 50% procrastination <img src="https://media1.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="50"></p>
 
-<img align="right" src="https://media1.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="170"/>
+<img align="right" src="https://media1.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="160"/>
 <h2>⚡️ Quick Facts</h2>
 <ul>
 <li>👨🏽‍💻 I'm currently studying <strong>Computer Engineering</strong> at the University of Padua.</li>
