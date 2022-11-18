@@ -1,9 +1,9 @@
-<h2><img src="https://media1.giphy.com/media/1hO7S4ByADTDjHL9W4/giphy.gif" width="80"> I'm <strong>Marco</strong>!</h2>
+<h2>Hey there, I'm <strong>Marco</strong>! <img src="https://media1.giphy.com/media/8xjAi0KbIolejzPWRT/giphy.gif" width="40"></h2>
 <p>Welcome to my little corner of controlled foolery🤪</p>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/marco_toffoletto/)](https://www.instagram.com/marco_toffoletto/) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/marco-toffoletto-34a673233/)](https://www.linkedin.com/in/marco-toffoletto-34a673233/)
   
-<p>☕ Remember to drink your daily <strong>exaggerated</strong> dose of coffee ☕</p>
+<p><img src="https://media1.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="50"> My day is made up of 50% coffee breaks and 50% procrastination <img src="https://media1.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="50"></p>
 
 <img align="right" src="https://media1.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="170"/>
 <h2>⚡️ Quick Facts</h2>
