@@ -10,11 +10,11 @@
 <ul>
 <li>👨🏽‍💻 I'm currently studying <strong>Computer Engineering</strong> at the University of Padua.</li>
 <li>🧠 <strong>Machine learning</strong>, <strong>tricky projects</strong>, and a bit of <strong>big data management</strong> are my interests.</li>
-<li>⚙ I'm also a big fan of <strong>Mechanical Engineering</strong> and <strong>engines</strong>.</li>
+<li>🏎 I'm also a big fan of <strong>Mechanical Engineering</strong> and <strong>engines</strong>.</li>
 <li>🎉 Fun Fact: このことの翻訳を調べるまであなたが行くとは思わなかった</li>
 </ul>
 
-<h2>🚀 Some Tools I Use</h2>
+<h2>🛠 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30" />
