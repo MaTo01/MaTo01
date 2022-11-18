@@ -24,7 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="30" height="30" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" />
 </p>
-<h2>📊 My stats</h2>
+<h2>📊 My Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=MaTo01&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaTo01&layout=compact&theme=radical" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=MaTo01.MaTo01" alt="visitors"> </p>
