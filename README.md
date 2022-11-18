@@ -11,7 +11,7 @@
 <li>👨🏽‍💻 I'm currently studying <strong>Computer Engineering</strong> at the University of Padua.</li>
 <li>🧠 <strong>Machine learning</strong>, <strong>tricky projects</strong>, and a bit of <strong>big data management</strong> are my interests.</li>
 <li>🏍 I'm also a big fan of <strong>Mechanical Engineering</strong> and <strong>engines</strong>.</li>
-<li>🎉 Fun Fact: このことの翻訳を調べるまであなたが行くとは思わなかった</li>
+<li>🎉 Fun Fact: おめでとう、このことの翻訳を調べるのに時間を無駄にしました</li>
 </ul>
 
 <h2>🛠 Some Tools I Use</h2>
