@@ -24,10 +24,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="30" height="30" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" />
 </p>
-<h2>📊 My Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=MaTo01&show_icons=true&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaTo01&layout=compact&theme=transparent"&"https://github.com/MaTo01/github-readme-stats" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=MaTo01.MaTo01" alt="visitors"> </p>
 
 <!---
 MaTo01/MaTo01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
