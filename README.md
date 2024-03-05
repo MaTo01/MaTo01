@@ -5,7 +5,7 @@
 
 <img align="right" src="https://media1.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="160"/>
   
-<p><img src="https://media1.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="50"> My day is made up of 50% coffee breaks and 50% procrastination <img src="https://media1.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="50"></p>
+<p><img src="https://media1.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="30"> My day is made up of 50% coffee breaks and 50% procrastination <img src="https://media1.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="30"></p>
 
 <h3>⚡️ Quick Facts</h3>
   <ul>
