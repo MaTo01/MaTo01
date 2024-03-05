@@ -8,7 +8,7 @@
 <img align="right" src="https://media1.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="160"/>
 <h2>⚡️ Quick Facts</h2>
 <ul>
-<li>👨🏽‍💻 I'm currently studying <strong>Computer Engineering</strong> at the University of Padua.</li>
+<li>👨🏽‍💻 I'm currently studying <strong>IT Engineering</strong> at the University of Padua.</li>
 <li>🧠 <strong>Machine learning</strong>, <strong>challenging projects</strong> and a bit of <strong>big data management</strong> are my interests.</li>
 <li>🏍 I'm also a big fan of <strong>Mechanical Engineering</strong> and <strong>engines</strong>.</li>
 <li>🎉 Fun Fact: おめでとう、このことの翻訳を調べるのに時間を無駄にしました</li>
@@ -16,13 +16,17 @@
 
 <h2>🛠 Some Tools I Use</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="CMake" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" width="30" height="30" />  
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Cpp" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="30" height="30" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" />  
+<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="CMake" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Junit" width="30" height="30" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="30" height="30" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" />
 </p>
 <!---
 MaTo01/MaTo01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
