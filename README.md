@@ -7,7 +7,7 @@
   
 <p><img src="https://media1.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="30"> My day is made up of 50% coffee breaks and 50% procrastination <img src="https://media1.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="30"></p>
 
-<h3>⚡️ Quick Facts</h3>
+<h3>⚡️ Quick facts</h3>
   <ul>
   <li>👨🏽‍💻 I'm currently studying <strong>IT Engineering</strong> at the University of Padua.</li>
   <li>🧠 <strong>Machine learning</strong>, <strong>challenging projects</strong> and a bit of <strong>big data management</strong> are my interests.</li>
@@ -15,7 +15,7 @@
   <li>🎉 Fun Fact: おめでとう、このことの翻訳を調べるのに時間を無駄にしました</li>
   </ul>
 
-<h3>🛠 Some Tools I Use</h3>
+<h3>🛠 Some tools I use</h3>
   <p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30" />
@@ -31,10 +31,11 @@
   </p>
 
 <h3>📈 Stats</h3>
-  <p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaTo01&show_icons=true&locale=en" alt="MaTo01" /></p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaTo01&show_icons=true&locale=en&layout=compact" alt="MaTo01" /></p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=MaTo01&show_icons=true&locale=en" alt="MaTo01" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaTo01&show_icons=true&locale=en&layout=compact" alt="MaTo01" /></p>
   </p>
+  <p><img align="left" src="https://komarev.com/ghpvc/?username=MaTo01&label=Profile%20views&color=0e75b6&style=flat" alt="MaTo01" /></p>
 <!---
 MaTo01/MaTo01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
