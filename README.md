@@ -26,7 +26,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30" /> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" />  
     <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="CMake" width="30" height="30" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Junit" width="30" height="30" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" alt="Junit" width="30" height="30" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="30" height="30" />
   </p>
 
