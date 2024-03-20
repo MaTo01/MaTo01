@@ -24,6 +24,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="30" height="30" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="30" height="30" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30" /> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" alt="Prolog" width="30" height="30" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" />  
     <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="CMake" width="30" height="30" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" alt="Junit" width="30" height="30" />
