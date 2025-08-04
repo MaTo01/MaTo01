@@ -1,5 +1,5 @@
 <h1>Hey there, I'm <strong>Marco</strong>! <img src="https://media1.giphy.com/media/7E63hj0J20hKVzDcm8/giphy.gif" width="35"></h1>
-<img align="right" src="https://media1.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="175" />
+<img align="right" src="https://media1.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="165" />
 <p>Welcome to my little corner of controlled foolery🤪</p>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/marco_toffoletto/)](https://www.instagram.com/marco_toffoletto/) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/marco-toffoletto-34a673233/)](https://www.linkedin.com/in/marco-toffoletto-34a673233/)
