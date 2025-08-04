@@ -19,16 +19,17 @@
   <p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" width="30" height="30" />  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30" />  
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Cpp" width="30" height="30" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="30" height="30" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="30" height="30" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30" /> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" alt="Prolog" width="30" height="30" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Prolog" width="30" height="30" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" />  
     <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="CMake" width="30" height="30" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" alt="Junit" width="30" height="30" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="30" height="30" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="30" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="VisualStudio" width="30" heigth="30" />
   </p>
 
 <h3>📈 Stats</h3>
