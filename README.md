@@ -1,11 +1,8 @@
-<h1>Hey there, I'm <strong>Marco</strong>! <img src="https://media1.giphy.com/media/8xjAi0KbIolejzPWRT/giphy.gif" width="40"></h1>
+<h1>Hey there, I'm <strong>Marco</strong>! <img src="https://media1.giphy.com/media/7E63hj0J20hKVzDcm8/giphy.gif" width="35"></h1>
+<img align="right" src="https://media1.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="175" />
 <p>Welcome to my little corner of controlled foolery🤪</p>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/marco_toffoletto/)](https://www.instagram.com/marco_toffoletto/) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/marco-toffoletto-34a673233/)](https://www.linkedin.com/in/marco-toffoletto-34a673233/)
-
-<img align="right" src="https://media1.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="160"/>
-  
-<p><img src="https://media1.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="30"> My day is made up of 50% coffee breaks and 50% procrastination <img src="https://media1.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="30"></p>
 
 <h3>⚡️ Quick facts</h3>
   <ul>
@@ -35,7 +32,7 @@
 <h3>📈 Stats</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=MaTo01&show_icons=true&locale=en" alt="MaTo01" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaTo01&show_icons=true&locale=en&layout=compact" alt="MaTo01" /></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaTo01&show_icons=true&locale=en&layout=compact" alt="MaTo01" />
   </p>
   <p><img align="left" src="https://komarev.com/ghpvc/?username=MaTo01&label=Profile%20views&color=0e75b6&style=flat" alt="MaTo01" /></p>
 <!---
